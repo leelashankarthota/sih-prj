@@ -7,7 +7,11 @@ __v0_jsx-dev-runtime.ts
 .vercel/
 
 # Environment variables
+.env
 .env*.local
+
+# TypeScript build metadata
+*.tsbuildinfo
 
 # Common ignores
 node_modules
